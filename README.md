@@ -54,31 +54,31 @@ There are two restrictions on local deployment to be aware of:
 
 # 4. Download Visual C++ Redistributable Package
 ## 4.1 Visual Studio 2015, 2017, 2019, and 2022
-|Architecture|Offical Link|Note|
-|---|---|---|
-|ARM64|https://aka.ms/vs/17/release/vc_redist.arm64.exe|Permalink for latest supported ARM64 version|
-|X86|https://aka.ms/vs/17/release/vc_redist.x86.exe|Permalink for latest supported x86 version|
-|X64|https://aka.ms/vs/17/release/vc_redist.x64.exe|Permalink for latest supported x64 version. The X64 redistributable package contains both ARM64 and X64 binaries.|
+|Architecture|Offical Link|Github Link|Extracted Files|
+|---|---|---|---|
+|ARM64|https://aka.ms/vs/17/release/vc_redist.arm64.exe (Permalink for latest supported ARM64 version) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|None|
+|X86|https://aka.ms/vs/17/release/vc_redist.x86.exe (Permalink for latest supported x86 version) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|[./vs2015~vs2022/VC_redist.x86-2015~2022](./vs2015~vs2022/VC_redist.x86-2015~2022)|
+|X64|https://aka.ms/vs/17/release/vc_redist.x64.exe (Permalink for latest supported x64 version. The X64 redistributable package contains both ARM64 and X64 binaries.) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|[./vs2015~vs2022/VC_redist.x64-2015~2022](./vs2015~vs2022/VC_redist.x64-2015~2022)|
 
 ## 4.2 Visual Studio 2013 (VC++ 12.0)
-|Architecture|Offical Link|Version|
-|---|---|---|
-|X86|https://aka.ms/highdpimfc2013x86enu|12.0.40664.0|
-|X64|https://aka.ms/highdpimfc2013x64enu|12.0.40664.0|
+|Architecture|Offical Link|Github Link|Extracted Files|
+|---|---|---|---|
+|X86|https://aka.ms/highdpimfc2013x86enu|[12.0.40664.0](./vs2013/vcredist_x86-vs2013.exe)|[./vs2013/vcredist_x86-vs2013](./vs2013/vcredist_x86-vs2013)|
+|X64|https://aka.ms/highdpimfc2013x64enu|[12.0.40664.0](./vs2013/vcredist_x64-vs2013.exe)|[./vs2013/vcredist_x64-vs2013](./vs2013/vcredist_x64-vs2013)|
 
 ## 4.3 Visual Studio 2012 (VC++ 11.0) Update 4
-|Architecture|Offical Link|Version|
-|---|---|---|
-|X86|https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe|11.0.61030.0|
-|X64|https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe|11.0.61030.0|
+|Architecture|Offical Link|Github Link|Extracted Files|
+|---|---|---|---|
+|X86|https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe|[11.0.61030.0](./vs2012/vcredist_x86-vs2012.exe)|[./vs2012/vcredist_x86-vs2012](./vs2012/vcredist_x64-vs2012)|
+|X64|https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe|[11.0.61030.0](./vs2012/vcredist_x64-vs2012.exe)|[./vs2012/vcredist_x64-vs2012](./vs2012/vcredist_x64-vs2012)|
 
 ## 4.4. Visual Studio 2010 (VC++ 10.0) SP1
 > Visual Studio 2010 Service Pack 1 reached end of extended support on July 14, 2020
 
-|Architecture|Offical Link|Version|
-|---|---|---|
-|X86|https://download.microsoft.com/download/C/6/D/C6D0FD4E-9E53-4897-9B91-836EBA2AACD3/vcredist_x86.exe|10.0.40219.1|
-|X64|https://download.microsoft.com/download/A/8/0/A80747C3-41BD-45DF-B505-E9710D2744E0/vcredist_x64.exe|10.0.40219.1|
+|Architecture|Offical Link|Github Link|Extracted Files|
+|---|---|---|---|
+|X86|https://download.microsoft.com/download/C/6/D/C6D0FD4E-9E53-4897-9B91-836EBA2AACD3/vcredist_x86.exe|[10.0.40219.1](./vs2010/vcredist_x86-vs2010.exe)|[./vs2010/vcredist_x86-vs2010](./vs2010/vcredist_x86-vs2010)|
+|X64|https://download.microsoft.com/download/A/8/0/A80747C3-41BD-45DF-B505-E9710D2744E0/vcredist_x64.exe|[10.0.40219.1](./vs2010/vcredist_x64-vs2010.exe)|[./vs2010/vcredist_x64-vs2010](./vs2010/vcredist_x64-vs2010)|
 
 ## 4.5 Visual Studio 2008 (VC++ 9.0) SP1
 > Visual Studio 2008 Service Pack 1 reached end of extended support on April 10, 2018
