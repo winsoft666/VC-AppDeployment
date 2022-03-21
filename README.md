@@ -57,8 +57,8 @@ There are two restrictions on local deployment to be aware of:
 |Architecture|Offical Link|Github Link|Extracted Files|
 |---|---|---|---|
 |ARM64|https://aka.ms/vs/17/release/vc_redist.arm64.exe (Permalink for latest supported ARM64 version) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|None|
-|X86|https://aka.ms/vs/17/release/vc_redist.x86.exe (Permalink for latest supported x86 version) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|[./vs2015~vs2022/VC_redist.x86-2015~2022](./vs2015~vs2022/VC_redist.x86-2015~2022)|
-|X64|https://aka.ms/vs/17/release/vc_redist.x64.exe (Permalink for latest supported x64 version. The X64 redistributable package contains both ARM64 and X64 binaries.) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|[./vs2015~vs2022/VC_redist.x64-2015~2022](./vs2015~vs2022/VC_redist.x64-2015~2022)|
+|X86|https://aka.ms/vs/17/release/vc_redist.x86.exe (Permalink for latest supported x86 version) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|[./vs2015~vs2022/VC_redist.x86-2015~2022](./vs2015\~vs2022/VC_redist.x86-2015\~2022)|
+|X64|https://aka.ms/vs/17/release/vc_redist.x64.exe (Permalink for latest supported x64 version. The X64 redistributable package contains both ARM64 and X64 binaries.) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|[./vs2015\~vs2022/VC_redist.x64-2015\~2022](./vs2015\~vs2022/VC_redist.x64-2015\~2022)|
 
 ## 4.2 Visual Studio 2013 (VC++ 12.0)
 |Architecture|Offical Link|Github Link|Extracted Files|
