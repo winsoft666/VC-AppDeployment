@@ -60,12 +60,12 @@ There are two restrictions on local deployment to be aware of:
 |X86|https://aka.ms/vs/17/release/vc_redist.x86.exe (Permalink for latest supported x86 version) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|[./vs2015\~vs2022/VC_redist.x86-2015\~2022](./vs2015\~vs2022/VC_redist.x86-2015\~2022)|
 |X64|https://aka.ms/vs/17/release/vc_redist.x64.exe (Permalink for latest supported x64 version. The X64 redistributable package contains both ARM64 and X64 binaries.) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|[./vs2015\~vs2022/VC_redist.x64-2015\~2022](./vs2015\~vs2022/VC_redist.x64-2015\~2022)|
 
-### UCRT
+### UCRT (Version: 10.0.19041.0)
 |Architecture|Extracted Files|
 |---|---|
-|ARM64|[./vs2015~vs2022/UCRT/arm](./vs2015~vs2022/UCRT/arm)|
-|X86|[./vs2015~vs2022/UCRT/x86](./vs2015~vs2022/UCRT/x86)|
-|X64|[./vs2015~vs2022/UCRT/x64](./vs2015~vs2022/UCRT/x64)|
+|ARM64|[./vs2015~vs2022/UCRT-10.0.19041.0/arm](./vs2015~vs2022/UCRT-10.0.19041.0/arm)|
+|X86|[./vs2015~vs2022/UCRT-10.0.19041.0/x86](./vs2015~vs2022/UCRT-10.0.19041.0/x86)|
+|X64|[./vs2015~vs2022/UCRT-10.0.19041.0/x64](./vs2015~vs2022/UCRT-10.0.19041.0/x64)|
 
 ## 4.2 Visual Studio 2013 (VC++ 12.0)
 |Architecture|Offical Link|Github Link|Extracted Files|
