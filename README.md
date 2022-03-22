@@ -77,6 +77,9 @@ There are two restrictions on local deployment to be aware of:
 
 # 4. Download Visual C++ Redistributable Package
 ## 4.1 Visual Studio 2015, 2017, 2019, and 2022
+
+> **Debug version**: [./vs2015~vs2022/DEBUG](./vs2015~vs2022/DEBUG)
+
 |Architecture|Offical Link|Github Link|Extracted Files|
 |---|---|---|---|
 |ARM64|https://aka.ms/vs/17/release/vc_redist.arm64.exe (Permalink for latest supported ARM64 version) |[VC_redist.arm64-2015~2022.exe](./vs2015~vs2022/VC_redist.arm64-2015~2022.exe)|None|
@@ -89,6 +92,7 @@ There are two restrictions on local deployment to be aware of:
 |ARM64|[Goto Folder](./vs2015~vs2022/UCRT-10.0.19041.0/arm)|
 |X86|[Goto Folder](./vs2015~vs2022/UCRT-10.0.19041.0/x86)|
 |X64|[Goto Folder](./vs2015~vs2022/UCRT-10.0.19041.0/x64)|
+
 
 ## 4.2 Visual Studio 2013 (VC++ 12.0)
 |Architecture|Offical Link|Github Link|Extracted Files|
