@@ -78,6 +78,8 @@ There are two restrictions on local deployment to be aware of:
 # 4. Download Visual C++ Redistributable Package
 ## 4.1 Visual Studio 2015, 2017, 2019, and 2022
 
+> Latest Supported Visual C++ Downloads can be found at [https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist)
+
 > **Debug version**: [./vs2015~vs2022/DEBUG](./vs2015~vs2022/DEBUG)
 
 |Architecture|Offical Link|Github Link|Extracted Files|
